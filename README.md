@@ -1,1 +1,0 @@
-../SOC-Integrace-do-prumyslu-4.0/master/README.md
